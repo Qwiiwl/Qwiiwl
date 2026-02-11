@@ -5,8 +5,6 @@
 </p>
 
 ## About me
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/werruro)
-
 I'm a backend developer
 
 I'm interested in web development and games. Also, I hate JavaScript💀
@@ -16,11 +14,11 @@ I'm interested in web development and games. Also, I hate JavaScript💀
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,py,java,html,css,postgres,sqlite&perline=7" />
+    <img src="https://skillicons.dev/icons?i=dotnet,c,cs,cpp,py,java,html,css,postgres&perline=3" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=unity,gradle,spring,linux,hibernate,githubactions,django,docker,git,bootstrap&perline=7" />
+    <img src="https://skillicons.dev/icons?i=gradle,spring,linux,,githubactions,docker,git,kubernetes,kali,kafka&perline=3" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,ultimate&perline=7" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,vscode,ultimate&perline=3" />
     <br>
   </p>
 </details>
@@ -29,8 +27,8 @@ I'm interested in web development and games. Also, I hate JavaScript💀
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qwiiwl&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=BaggerFast&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Qwiiwl&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
   </p>
 </details>
